@@ -1,0 +1,1442 @@
+[
+  {
+    "code": "E001",
+    "naam": "Nooduitgang (links)",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E001.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E001&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E002",
+    "naam": "Nooduitgang (rechts)",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E002.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E002&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E003",
+    "naam": "Eerste hulp",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E003.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E003&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E004",
+    "naam": "Noodtelefoon",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E004.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E004&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E005",
+    "naam": "Richtingspijl (90°)",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E005.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E005&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E006",
+    "naam": "Richtingspijl (45°)",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E006.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E006&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E007",
+    "naam": "Verzamelpunt bij calamiteiten",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E007.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E007&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E008",
+    "naam": "Breek om toegang te krijgen",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E008.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E008&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E009",
+    "naam": "Dokter",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E009.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E009&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E010",
+    "naam": "Automatische externe defibrillator",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E010.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E010&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E011",
+    "naam": "Oogspoelstation",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E011.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E011&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E012",
+    "naam": "Nooddouche",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E012.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E012&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E013",
+    "naam": "Brancard",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E013.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E013&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E016",
+    "naam": "Nooduitgang via raam met vluchtladder",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E016.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E016&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E017",
+    "naam": "Reddingsvenster",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E017.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E017&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E018",
+    "naam": "Draai tegen de klok in om te openen",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E018.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E018&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "E019",
+    "naam": "Draai met de klok mee om te openen",
+    "categorie": "Eerstehulp / veilige toestand",
+    "verwacht_bestand": "ISO_7010_E019.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+E019&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F001",
+    "naam": "Brandblusser",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F001.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F001&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F002",
+    "naam": "Brandhaspel",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F002.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F002&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F003",
+    "naam": "Brandladder",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F003.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F003&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F004",
+    "naam": "Brandbestrijdingsmiddelen",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F004.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F004&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F005",
+    "naam": "Handmelder",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F005.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F005&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F006",
+    "naam": "Brandalarmtelefoon",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F006.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F006&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "F007",
+    "naam": "Brandwerende deur",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_F007.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+F007&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "A090R",
+    "naam": "Brandpreventie-richtingspijl (90°)",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_A090R.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+A090R&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "A045R",
+    "naam": "Brandpreventie-richtingspijl (45°)",
+    "categorie": "Brandpreventie",
+    "verwacht_bestand": "ISO_7010_A045R.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+A045R&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M001",
+    "naam": "Algemeen gebodsteken",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M001.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M001&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M002",
+    "naam": "Zie instructieboekje/handleiding",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M002.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M002&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M003",
+    "naam": "Draag gehoorbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M003.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M003&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M004",
+    "naam": "Draag oogbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M004.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M004&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M005",
+    "naam": "Sluit een aardklem aan op aarde",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M005.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M005&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M006",
+    "naam": "Haal de stekker uit het stopcontact",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M006.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M006&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M007",
+    "naam": "Draag ondoorzichtige oogbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M007.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M007&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M008",
+    "naam": "Draag voetbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M008.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M008&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M009",
+    "naam": "Draag beschermende handschoenen",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M009.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M009&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M010",
+    "naam": "Draag beschermende kleding",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M010.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M010&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M011",
+    "naam": "Was je handen",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M011.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M011&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M012",
+    "naam": "Gebruik leuning",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M012.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M012&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M013",
+    "naam": "Draag gelaatsbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M013.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M013&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M014",
+    "naam": "Draag een helm",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M014.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M014&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M015",
+    "naam": "Draag kleding met hoge zichtbaarheid",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M015.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M015&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M016",
+    "naam": "Draag mondkap/masker",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M016.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M016&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M017",
+    "naam": "Draag adembescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M017.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M017&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M018",
+    "naam": "Draag veiligheidsharnas",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M018.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M018&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M019",
+    "naam": "Draag lasmasker",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M019.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M019&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M020",
+    "naam": "Draag veiligheidsgordel",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M020.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M020&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M021",
+    "naam": "Ontkoppelen vóór onderhoud of reparatie",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M021.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M021&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M022",
+    "naam": "Gebruik barrièrecrème",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M022.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M022&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M023",
+    "naam": "Gebruik loopbrug",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M023.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M023&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M024",
+    "naam": "Gebruik deze looproute",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M024.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M024&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M025",
+    "naam": "Bescherm de ogen van baby's met ondoorzichtige oogbescherming",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M025.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M025&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M026",
+    "naam": "Gebruik beschermend schort",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M026.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M026&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M027",
+    "naam": "Afscherming installeren of controleren",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M027.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M027&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M028",
+    "naam": "Sluit en houd vergrendeld",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M028.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M028&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M029",
+    "naam": "Claxonneer/toeter",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M029.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M029&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M030",
+    "naam": "Doe afval in de prullenbak",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M030.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M030&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M031",
+    "naam": "Gebruik beschermkap van tafelzaag",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M031.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M031&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M032",
+    "naam": "Gebruik antistatisch of vonkwerend schoeisel",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M032.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M032&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M033",
+    "naam": "Veiligheidsbeugel skistoeltjeslift omlaag",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M033.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M033&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M034",
+    "naam": "Veiligheidsbeugel skistoeltjeslift omhoog",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M034.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M034&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M035",
+    "naam": "Verlaat skiliftpad na een val",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M035.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M035&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M036",
+    "naam": "Houd skitips omhoog",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M036.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M036&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M037",
+    "naam": "Sluit en beveilig het luik",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M037.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M037&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M038",
+    "naam": "Start de motor",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M038.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M038&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M039",
+    "naam": "Laat de reddingsboot zakken",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M039.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M039&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M040",
+    "naam": "Laat de reddingsboot zakken",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M040.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M040&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M041",
+    "naam": "Laat de reddingsboot zakken",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M041.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M041&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M042",
+    "naam": "Maak reddingsboothaken los",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M042.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M042&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M043",
+    "naam": "Start waterstraal reddingsboot",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M043.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M043&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M044",
+    "naam": "Start luchttoevoer reddingsboot",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M044.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M044&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M045",
+    "naam": "Laat touwen/grepen los",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M045.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M045&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M046",
+    "naam": "Beveilig gasflessen",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M046.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M046&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M047",
+    "naam": "Gebruik autonoom ademhalingstoestel",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M047.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M047&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M048",
+    "naam": "Gebruik gasdetector",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M048.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M048&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M049",
+    "naam": "Gebruik sportbeschermingsmiddelen",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M049.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M049&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M050",
+    "naam": "Verlaat rodelbaan links",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M050.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M050&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M051",
+    "naam": "Verlaat rodelbaan rechts",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M051.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M051&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M052",
+    "naam": "Houd veilige afstand tussen sleeën",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M052.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M052&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M053",
+    "naam": "Draag persoonlijk drijfmiddel/reddingsvest",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M053.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M053&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M054",
+    "naam": "Houd toezicht op kinderen bij wateractiviteiten",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M054.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M054&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "M055",
+    "naam": "Buiten bereik van kinderen bewaren",
+    "categorie": "Gebod",
+    "verwacht_bestand": "ISO_7010_M055.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+M055&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P001",
+    "naam": "Algemeen verbodsteken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P001.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P001&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P002",
+    "naam": "Verboden te roken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P002.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P002&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P003",
+    "naam": "Geen open vuur",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P003.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P003&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P004",
+    "naam": "Geen doorgang voor voetgangers",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P004.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P004&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P005",
+    "naam": "Geen drinkwater",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P005.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P005&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P006",
+    "naam": "Geen toegang voor vorkheftrucks en industriële voertuigen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P006.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P006&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P007",
+    "naam": "Geen toegang voor personen met actieve geïmplanteerde hartapparaten",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P007.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P007&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P008",
+    "naam": "Geen metalen voorwerpen of horloges",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P008.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P008&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P010",
+    "naam": "Niet aanraken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P010.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P010&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P011",
+    "naam": "Niet blussen met water",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P011.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P011&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P012",
+    "naam": "Geen zware belasting",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P012.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P012&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P013",
+    "naam": "Geen geactiveerde mobiele telefoon",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P013.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P013&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P014",
+    "naam": "Geen toegang voor personen met metalen implantaten",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P014.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P014&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P015",
+    "naam": "Niet naar binnen reiken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P015.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P015&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P017",
+    "naam": "Niet duwen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P017.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P017&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P018",
+    "naam": "Niet zitten",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P018.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P018&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P019",
+    "naam": "Niet op het oppervlak stappen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P019.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P019&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P020",
+    "naam": "Bij brand geen lift gebruiken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P020.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P020&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P021",
+    "naam": "Geen honden",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P021.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P021&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P022",
+    "naam": "Niet eten of drinken",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P022.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P022&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P023",
+    "naam": "Niet hinderen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P023.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P023&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P024",
+    "naam": "Loop of sta hier niet",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P024.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P024&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P025",
+    "naam": "Gebruik deze onvolledige steiger niet",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P025.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P025&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P026",
+    "naam": "Gebruik dit apparaat niet in bad, douche of met water gevuld reservoir",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P026.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P026&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P027",
+    "naam": "Deze lift is niet voor personen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P027.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P027&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P028",
+    "naam": "Draag geen handschoenen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P028.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P028&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P029",
+    "naam": "Niet fotograferen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P029.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P029&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P030",
+    "naam": "Leg geen knopen in het touw",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P030.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P030&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P031",
+    "naam": "Niet schakelen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P031.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P031&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P032",
+    "naam": "Niet vlakslijpen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P032.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P032&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P033",
+    "naam": "Niet gebruiken voor nat slijpen",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P033.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P033&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "P034",
+    "naam": "Niet gebruiken met handslijper",
+    "categorie": "Verbod",
+    "verwacht_bestand": "ISO_7010_P034.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+P034&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W001",
+    "naam": "Algemeen waarschuwingsteken",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W001.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W001&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W002",
+    "naam": "Explosieve materialen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W002.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W002&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W003",
+    "naam": "Radioactief materiaal of ioniserende straling",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W003.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W003&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W004",
+    "naam": "Laserstraal",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W004.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W004&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W005",
+    "naam": "Niet-ioniserende straling",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W005.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W005&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W006",
+    "naam": "Magnetisch veld",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W006.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W006&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W007",
+    "naam": "Obstakel op vloerniveau",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W007.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W007&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W008",
+    "naam": "Valgevaar",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W008.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W008&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W009",
+    "naam": "Biologisch gevaar",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W009.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W009&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W010",
+    "naam": "Gevaar bij lage temperatuur",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W010.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W010&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W011",
+    "naam": "Glad oppervlak",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W011.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W011&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W012",
+    "naam": "Elektriciteitsgevaar",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W012.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W012&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W013",
+    "naam": "Waakhond",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W013.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W013&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W014",
+    "naam": "Vorkheftruck en andere industriële voertuigen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W014.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W014&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W015",
+    "naam": "Hangende last",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W015.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W015&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W016",
+    "naam": "Giftig materiaal",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W016.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W016&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W017",
+    "naam": "Heet oppervlak",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W017.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W017&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W018",
+    "naam": "Automatisch opstarten",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W018.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W018&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W019",
+    "naam": "Verplettering door bewegende delen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W019.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W019&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W020",
+    "naam": "Obstakel boven hoofd",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W020.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W020&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W021",
+    "naam": "Brandbaar materiaal",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W021.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W021&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W022",
+    "naam": "Scherp element",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W022.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W022&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W023",
+    "naam": "Bijtende stof",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W023.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W023&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W024",
+    "naam": "Beknelling van handen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W024.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W024&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W025",
+    "naam": "Tegengesteld draaiende rollen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W025.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W025&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W026",
+    "naam": "Batterij opladen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W026.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W026&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W027",
+    "naam": "Optische straling",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W027.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W027&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W028",
+    "naam": "Oxiderende stof",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W028.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W028&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W029",
+    "naam": "Cilinder onder druk",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W029.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W029&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W030",
+    "naam": "Handblessure in pers",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W030.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W030&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W031",
+    "naam": "Handletsel door snelle beweging van werkstuk in kantpers",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W031.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W031&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W032",
+    "naam": "Snelle beweging van werkstuk in kantpers",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W032.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W032&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W033",
+    "naam": "Prikkeldraad",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W033.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W033&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W034",
+    "naam": "Stier",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W034.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W034&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W035",
+    "naam": "Vallende onderdelen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W035.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W035&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W036",
+    "naam": "Kwetsbaar dak",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W036.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W036&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W037",
+    "naam": "Geautomatiseerde of op afstand bestuurde voertuigen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W037.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W037&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W038",
+    "naam": "Plotseling hard geluid",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W038.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W038&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W039",
+    "naam": "Vallende ijspegels",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W039.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W039&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W040",
+    "naam": "Daklawine",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W040.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W040&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W041",
+    "naam": "Ademhalingsgevaar",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W041.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W041&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W042",
+    "naam": "Vlambooggevaar",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W042.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W042&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W043",
+    "naam": "Dun ijs",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W043.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W043&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W044",
+    "naam": "Scheepshelling",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W044.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W044&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W045",
+    "naam": "Waterski- of gesleept-wateractiviteitsgebied",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W045.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W045&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W046",
+    "naam": "Surfen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W046.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W046&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W047",
+    "naam": "Diep water",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W047.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W047&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W048",
+    "naam": "Ondiep water",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W048.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W048&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W049",
+    "naam": "Objecten onder water",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W049.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W049&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W050",
+    "naam": "Plotselinge daling in zwembad",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W050.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W050&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W051",
+    "naam": "Geen vangrail / onbeschermde randen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W051.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W051&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W052",
+    "naam": "Onstabiele klifrand",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W052.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W052&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W053",
+    "naam": "Onstabiele klif",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W053.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W053&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W054",
+    "naam": "Haaien",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W054.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W054&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W055",
+    "naam": "Afvalwaterafvoer",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W055.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W055&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W056",
+    "naam": "Tsunami-gevarenzone",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W056.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W056&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W057",
+    "naam": "Sterke stroming",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W057.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W057&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W058",
+    "naam": "Vaargebied",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W058.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W058&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W059",
+    "naam": "Strandvoertuigen / strandzeilen / windkarren",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W059.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W059&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W060",
+    "naam": "Opkomende getijden",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W060.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W060&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W061",
+    "naam": "Drijfzand, modder of slib",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W061.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W061&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W062",
+    "naam": "Kitesurfen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W062.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W062&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W063",
+    "naam": "Parasailing",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W063.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W063&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W064",
+    "naam": "Harde wind",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W064.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W064&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W065",
+    "naam": "Hoge branding / grote brekende golven",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W065.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W065&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W066",
+    "naam": "Plotselinge daling naar diep water",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W066.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W066&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  },
+  {
+    "code": "W067",
+    "naam": "Alligators, kaaimannen en krokodillen",
+    "categorie": "Waarschuwing",
+    "verwacht_bestand": "ISO_7010_W067.svg",
+    "commons_zoekurl": "https://commons.wikimedia.org/w/index.php?search=ISO+7010+W067&title=Special:MediaSearch&type=image",
+    "wikipedia_referentie": "https://nl.wikipedia.org/wiki/ISO_7010"
+  }
+]

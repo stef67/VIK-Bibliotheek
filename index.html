@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VIK-bibliotheek – Goudsmidatelier</title>
+<style>
+:root {
+  --blue:#17365d;
+  --red:#c00000;
+  --bg:#f2f2f2;
+  --border:#c8c8c8;
+}
+* { box-sizing:border-box; }
+body {
+  margin:0;
+  font-family:Arial, Helvetica, sans-serif;
+  background:var(--bg);
+  color:#111;
+}
+main {
+  max-width:1100px;
+  margin:0 auto;
+  padding:32px 20px 48px;
+}
+header {
+  background:var(--blue);
+  color:#fff;
+  padding:24px;
+  border-left:12px solid var(--red);
+  margin-bottom:24px;
+}
+h1 { margin:0 0 8px; font-size:28px; }
+header p { margin:0; opacity:.9; }
+.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:18px;
+}
+.card {
+  display:grid;
+  gap:8px;
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:10px;
+  padding:18px;
+  text-decoration:none;
+  color:#111;
+  box-shadow:0 2px 8px rgba(0,0,0,.05);
+}
+.card:hover {
+  transform:translateY(-2px);
+  box-shadow:0 5px 14px rgba(0,0,0,.10);
+}
+.nr {
+  color:var(--red);
+  font-weight:700;
+  font-size:15px;
+}
+.title {
+  color:var(--blue);
+  font-size:20px;
+  font-weight:700;
+}
+.sub {
+  color:#444;
+  font-size:14px;
+  line-height:1.35;
+}
+.tools {
+  margin-top:24px;
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:10px;
+  padding:18px;
+}
+.tools a {
+  color:var(--blue);
+  font-weight:700;
+}
+small {
+  display:block;
+  margin-top:18px;
+  color:#555;
+}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>VIK-bibliotheek – Goudsmidatelier</h1>
+    <p>Vijf bewerkbare HTML/CSS-veiligheidsinstructiekaarten in één uniforme reeks.</p>
+  </header>
+
+  <section class="grid">
+    
+    <a class="card" href="VIK01_Algemene_veiligheidsregels.html">
+      <span class="nr">VIK 01</span>
+      <span class="title">Algemene veiligheidsregels</span>
+      <span class="sub">Goudsmidatelier</span>
+    </a>
+    
+
+    <a class="card" href="VIK02_Soldeerwerk_propaan_zuurstof.html">
+      <span class="nr">VIK 02</span>
+      <span class="title">Soldeerwerk</span>
+      <span class="sub">Propaan–zuurstofbrander</span>
+    </a>
+    
+
+    <a class="card" href="VIK03_Galvaniseerbad.html">
+      <span class="nr">VIK 03</span>
+      <span class="title">Galvaniseerbad</span>
+      <span class="sub">Verzilveren, vergulden en rhodineren</span>
+    </a>
+    
+
+    <a class="card" href="VIK04_Zuurbad_beitsen_goudtesten.html">
+      <span class="nr">VIK 04</span>
+      <span class="title">Zuurbad / beitsen en goudtesten</span>
+      <span class="sub">Chemische werkpost</span>
+    </a>
+    
+
+    <a class="card" href="VIK05_Polijstmachine.html">
+      <span class="nr">VIK 05</span>
+      <span class="title">Polijstmachine</span>
+      <span class="sub">Staande bediening met geïntegreerde afzuiging</span>
+    </a>
+    
+  </section>
+
+  <section class="tools">
+      <strong>ISO 7010-pictogrammenbibliotheek</strong><br>
+      <a href="ISO7010/index.html">Open alle ISO 7010-codes en pictogrammen</a>
+    </section>
+    <section class="tools">
+    <strong>Herbruikbare mastertemplate</strong><br>
+    <a href="VIK_MASTER_TEMPLATE.html">Open de lege HTML/CSS-template</a>
+  </section>
+
+  <small>Open dit bestand lokaal in een browser. Elke VIK kan afzonderlijk worden geopend, bewerkt en afgedrukt als A4 of PDF.</small>
+</main>
+</body>
+</html>
