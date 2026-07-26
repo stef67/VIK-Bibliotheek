@@ -1,4 +1,4 @@
-name: ISO 7010-pictogrammen bijwerken
+name: ISO 7010-pictogrammen
 
 on:
   workflow_dispatch:
