@@ -1,0 +1,39 @@
+name: ISO 7010-pictogrammen bijwerken
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-pictograms:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Requests installeren
+        run: python -m pip install --upgrade requests
+
+      - name: ISO 7010-pictogrammen downloaden
+        run: python ISO7010/download_iso7010.py
+
+      - name: Wijzigingen opslaan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ISO7010/afbeeldingen ISO7010/download_log.csv
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen om op te slaan."
+          else
+            git commit -m "ISO 7010-pictogrammen automatisch bijgewerkt"
+            git push
+          fi
